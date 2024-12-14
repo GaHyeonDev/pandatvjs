@@ -115,7 +115,7 @@ async function fetchChannelUserCount(channelId, token, cookies) {
 ## 참고 사항
 
 - **API 호출 빈도**: PandaLive API 호출이 너무 빈번할 경우 서비스 제한이 발생할 수 있으니 주기적으로 호출하세요.
-- **라이선스**: 본 프로젝트는 교육 및 학습 목적으로 제공되며, PandaTV의 약관을 준수하지 않는 방식으로 사용해서는 안 됩니다.
+- 본 프로젝트는 교육 및 학습 목적으로 제공되며, PandaTV의 약관을 준수하지 않는 방식으로 사용해서는 안 됩니다.
 
 ---
 
