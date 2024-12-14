@@ -43,10 +43,11 @@ npm install axios ws fs
 
 ### 4. 스크립트 실행
 
-- 다음 명령어로 스크립트를 실행합니다:
+- start.bat 을 이용하여 스크립트를 실행합니다.
 
 ```bash
-node script.js
+node index.js
+pause
 ```
 
 ---
